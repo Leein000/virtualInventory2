@@ -1,0 +1,7 @@
+name: Virtualinventory
+version: '${project.version}'
+main: kr.kro.habaek.virtualinventory.Main
+api-version: 1.17
+commands:
+  inventory:
+    가상창고:
